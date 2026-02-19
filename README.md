@@ -37,7 +37,7 @@ The Community edition includes core features for individual users, covering typi
 - Plan management
 - System administration
 
-> Community edition is closed-source software. No official technical support or customization is provided.
+> Community edition is closed-source software. No official technical support or customization is provided. Source code access requires purchasing a commercial license.
 
 ### Pro — Commercial License
 
@@ -49,6 +49,7 @@ Everything in Community, plus:
 - Knowledge base
 - Referral / affiliate commission system
 - Financial reports and analytics
+- **Source code repository access** (for the duration of the license period)
 
 ### Enterprise — Commercial License
 
@@ -79,9 +80,10 @@ Users can switch languages from the top-right corner of the interface. After swi
 
 ## Release Policy
 
-- **Closed-source**: Source code is not publicly available.
+- **Closed-source**: EzPanel is proprietary closed-source software. Source code is not publicly available; purchase a commercial license to obtain repository access.
+- **Free forever**: The Community edition can be used permanently at no cost, with no feature expiration.
+- **Source code access**: If you need access to the source code, purchase a commercial license (Pro or Enterprise). Commercial license holders receive repository access for the duration of their license period.
 - **Periodic updates**: New versions are released regularly with bug fixes and feature improvements.
-- **Community edition**: Free forever with no feature expiration.
 - **Announcements**: Follow [@OpineWorkPublish](https://t.me/OpineWorkPublish) on Telegram for release notifications.
 
 ---
